@@ -35,3 +35,5 @@ To use the Weather Data Adapter, you can follow these steps:
   Display or process the weather data as needed.
 
 ![image](https://github.com/LauraSaparkhan/TheWeatherProject/assets/120064402/97ac87d9-64da-4e62-a6a7-2080647d7dba)
+
+Important note: For this code to run you need to download JSON jar file and add it to your external libraries!
